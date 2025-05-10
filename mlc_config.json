@@ -1,0 +1,8 @@
+{
+	"replacementPatterns": [
+		{
+			"pattern": "^/",
+			"replacement": "https://josh-ops.com/"
+		}
+	]
+}
