@@ -4,8 +4,7 @@
 
 A DevOps Blog - Blogging about GitHub and Azure DevOps practices, tips, scripts, and my continuous improvement DevOps journey.
 
-[**josh-ops.com →**](https://josh-ops.com)
-
+[**josh-ops.com →**](https://josh-ops.co
 [![Build and Deploy](https://github.com/joshjohanning/joshjohanning.github.io/actions/workflows/pages-deploy.yml/badge.svg?branch=main)](https://github.com/joshjohanning/joshjohanning.github.io/actions/workflows/pages-deploy.yml)
 
 ## Theme Source
